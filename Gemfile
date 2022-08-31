@@ -82,7 +82,7 @@ gem "rqrcode"
 gem "ruby-oembed", "~> 0.14.0", require: "oembed"
 
 # We always want the latest versions of these gems, so no version numbers
-gem "omniauth", "~> 1.9", ">= 1.9.1"
+gem "omniauth", "~> 2.1"
 gem "strong_migrations", "~> 0.7.6"
 gem "whenever", require: false
 
